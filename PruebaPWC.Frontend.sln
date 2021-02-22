@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaPWC.Frontend", "PruebaPWC.Frontend\PruebaPWC.Frontend.csproj", "{1B749D2B-6F25-4BF4-9A65-A683E5F6BE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaPWC.API", "PruebaPWC.API\PruebaPWC.API.csproj", "{2C6016BF-1632-4332-8DF6-1E5F9FBAFF00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B749D2B-6F25-4BF4-9A65-A683E5F6BE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B749D2B-6F25-4BF4-9A65-A683E5F6BE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B749D2B-6F25-4BF4-9A65-A683E5F6BE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B749D2B-6F25-4BF4-9A65-A683E5F6BE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C6016BF-1632-4332-8DF6-1E5F9FBAFF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6016BF-1632-4332-8DF6-1E5F9FBAFF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6016BF-1632-4332-8DF6-1E5F9FBAFF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6016BF-1632-4332-8DF6-1E5F9FBAFF00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7CAB32F-8E02-426E-BDBE-4FB8AE576224}
+	EndGlobalSection
+EndGlobal
